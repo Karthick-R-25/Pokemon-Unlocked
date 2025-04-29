@@ -39,3 +39,25 @@
   .pok-card-item:hover {
     border-color: rgb(245, 96, 170); /* Bright yellow on hover */
   }
+  @media (max-width: 900px) {
+    .pok-card-item {
+      border: 5px solid #e7db36fb;
+      border-radius: 20px;
+      padding: 10px;
+      margin: 8px;
+      text-align: center;
+      font-family: 'Luckiest Guy', cursive;
+      color: #efe00ffb;
+      width: 350px;
+      height: 350px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+     
+      font-size: 28px;
+      -webkit-text-stroke: 0.5px #0a57f2;
+      letter-spacing: 3px;
+      background-color: rgba(59, 253, 72, 0.614);
+      background-size: cover;
+     
+      
+     }
+  }
