@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Pokemon-Unlocked/static/css/main.b90152d3.css",
+    "main.css": "/Pokemon-Unlocked/static/css/main.7329ab4d.css",
     "main.js": "/Pokemon-Unlocked/static/js/main.23b4e64e.js",
     "static/js/453.a5b5fab1.chunk.js": "/Pokemon-Unlocked/static/js/453.a5b5fab1.chunk.js",
     "static/media/back-5.jpg": "/Pokemon-Unlocked/static/media/back-5.568c873fccb3a10921f0.jpg",
     "index.html": "/Pokemon-Unlocked/index.html",
-    "main.b90152d3.css.map": "/Pokemon-Unlocked/static/css/main.b90152d3.css.map",
+    "main.7329ab4d.css.map": "/Pokemon-Unlocked/static/css/main.7329ab4d.css.map",
     "main.23b4e64e.js.map": "/Pokemon-Unlocked/static/js/main.23b4e64e.js.map",
     "453.a5b5fab1.chunk.js.map": "/Pokemon-Unlocked/static/js/453.a5b5fab1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b90152d3.css",
+    "static/css/main.7329ab4d.css",
     "static/js/main.23b4e64e.js"
   ]
 }
