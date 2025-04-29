@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+.pok-card-item {
+  border: 5px solid #e7db36fb;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 8px;
+  text-align: center;
+  font-family: 'Luckiest Guy', cursive;
+  color: #efe00ffb;
+  width: 250px;
+  height: 350px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+ 
+  font-size: 28px;
+  -webkit-text-stroke: 0.5px #0a57f2;
+  letter-spacing: 3px;
+  background-color: rgba(59, 253, 72, 0.614);
+  background-size: cover;
+ 
+  
+ }
+  
+  .pok-card-item img {
+    width: 110%;
+    height: 40%;
+   
+  }
+  
+  .pok-card-item h2 {
+    font-size: 25px;
+    margin: 8px 0 0;
+    opacity: 7;
+   
+  }
+  .power{
+    margin-top: -1rem;
+  }
+  .pok-card-item:hover {
+    border-color: rgb(245, 96, 170); /* Bright yellow on hover */
+  }
