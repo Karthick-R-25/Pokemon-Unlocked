@@ -73,6 +73,12 @@
   font-size: 19px;
   -webkit-text-stroke: 0.5px #0a57f2;
 }
+.no-results{
+  color: #efe00f;
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 19px;
+  -webkit-text-stroke: 0.5px #0a57f2;
+}
 
 @media (max-width: 700px) {
   .type-select {
